@@ -1,0 +1,11 @@
+./atualizador.sh
+./dependecias-comuns.sh
+./atualiza-bash.sh
+apt-get/./openjdk8.sh
+apt-get/./git.sh
+apt-get/./google-chrome.sh
+apt-get/./maven.sh
+apt-get/./docker.sh
+snap/./vscode.sh
+snap/./eclipse.sh
+snap/./postman.sh
